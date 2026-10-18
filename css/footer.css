@@ -1,0 +1,29 @@
+/* Footer */
+#footer {
+  padding: 100px 0;
+  background-color: #2e2f42;
+}
+
+#footer > a {
+  display: inline-block;
+  margin-bottom: 16px;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+#footer > a span {
+  color: #f4f4fd;
+}
+
+#footer > p {
+  max-width: 264px;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
